@@ -20,19 +20,19 @@
     <h1>Project</h1>
     <h3>Some projects i built</h3>
     <div class="projects">
-      <a href="/projects/kukertui">
+      <a href="projects/kukertui">
         <div class="project">
           <img src="/src/assets/kukertui.gif" alt="kukertui" width="85%" />
           <h3>KukerTUI</h3>
         </div>
       </a>
-      <a href="/projects/gettinboxed">
+      <a href="projects/gettinboxed">
         <div class="project">
           <img src="/src/assets/gettinboxed.png" alt="gettinboxed" width="80%" />
           <h3>GettinBoxed</h3>
         </div>
       </a>
-      <a href="/projects/portfoliotailwind">
+      <a href="projects/portfoliotailwind">
         <div class="project">
           <img
             src="/src/assets/portfoliotailwind.png"
