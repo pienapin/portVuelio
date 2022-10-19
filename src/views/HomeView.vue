@@ -22,19 +22,20 @@
     <div class="projects">
       <router-link to="/projects/kukertui">
         <div class="project">
-          <img src="/src/assets/kukertui.gif" alt="kukertui" width="85%" />
+          <img id="imgKukertui" src="/src/assets/kukertui.gif" alt="kukertui" width="85%" />
           <h3>KukerTUI</h3>
         </div>
       </router-link>
       <router-link to="/projects/gettinboxed">
         <div class="project">
-          <img src="/src/assets/gettinboxed.png" alt="gettinboxed" width="80%" />
+          <img id="imgGettinBoxed" src="/src/assets/gettinboxed.png" alt="gettinboxed" width="80%" />
           <h3>GettinBoxed</h3>
         </div>
       </router-link>
       <router-link to="/projects/portfoliotailwind">
         <div class="project">
           <img
+            id="imgPortfolioTailwind"
             src="/src/assets/portfoliotailwind.png"
             alt="portfoliotailwind"
             width="92%"
@@ -70,6 +71,18 @@
 
 .project {
   align-self: center;
+}
+
+#imgKukertui {
+  width: 80% !important;
+}
+
+#imgGettinBoxed {
+  width: 85% !important;
+}
+
+#imgPortfolioTailwind {
+  width: 92% !important;
 }
 
 .divider {
