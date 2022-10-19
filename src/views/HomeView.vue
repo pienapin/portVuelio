@@ -20,19 +20,19 @@
     <h1>Project</h1>
     <h3>Some projects i built</h3>
     <div class="projects">
-      <a href="projects/kukertui">
+      <router-link to="/projects/kukertui">
         <div class="project">
           <img src="/src/assets/kukertui.gif" alt="kukertui" width="85%" />
           <h3>KukerTUI</h3>
         </div>
-      </a>
-      <a href="projects/gettinboxed">
+      </router-link>
+      <router-link to="/projects/gettinboxed">
         <div class="project">
           <img src="/src/assets/gettinboxed.png" alt="gettinboxed" width="80%" />
           <h3>GettinBoxed</h3>
         </div>
-      </a>
-      <a href="projects/portfoliotailwind">
+      </router-link>
+      <router-link href="/projects/portfoliotailwind">
         <div class="project">
           <img
             src="/src/assets/portfoliotailwind.png"
@@ -41,7 +41,7 @@
           />
           <h3>Portfolio Website with Tailwind</h3>
         </div>
-      </a>
+      </router-link>
     </div>
   </div>
 </template>
