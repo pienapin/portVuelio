@@ -8,7 +8,7 @@ import HeroSection from "./components/HeroSection.vue";
     <img
       alt="Alvien Cenna"
       class="logo"
-      src="@/assets/me.png"
+      src="./assets/me.png"
       width="200"
       height="200"
     />
