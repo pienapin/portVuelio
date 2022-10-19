@@ -22,20 +22,20 @@
     <div class="projects">
       <a href="/projects/kukertui">
         <div class="project">
-          <img src="src/assets/kukertui.gif" alt="kukertui" width="85%" />
+          <img src="/src/assets/kukertui.gif" alt="kukertui" width="85%" />
           <h3>KukerTUI</h3>
         </div>
       </a>
       <a href="/projects/gettinboxed">
         <div class="project">
-          <img src="src/assets/gettinboxed.png" alt="gettinboxed" width="80%" />
+          <img src="/src/assets/gettinboxed.png" alt="gettinboxed" width="80%" />
           <h3>GettinBoxed</h3>
         </div>
       </a>
       <a href="/projects/portfoliotailwind">
         <div class="project">
           <img
-            src="src/assets/portfoliotailwind.png"
+            src="/src/assets/portfoliotailwind.png"
             alt="portfoliotailwind"
             width="92%"
           />
