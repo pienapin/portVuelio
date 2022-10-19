@@ -32,7 +32,7 @@
           <h3>GettinBoxed</h3>
         </div>
       </router-link>
-      <router-link href="/projects/portfoliotailwind">
+      <router-link to="/projects/portfoliotailwind">
         <div class="project">
           <img
             src="/src/assets/portfoliotailwind.png"
